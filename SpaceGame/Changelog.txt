@@ -1,0 +1,176 @@
+--Exported V.0.8.01
+
+/----------January 5th, 2017----------\
++Added Food tile
++Added Food
+*Can now import Food
+*People eat food every 10 seconds
+*Changed tile menu icon
+*Change win to 1000 research points
+
+
+Time: 4 hrs
+
+--Exported V.0.7.01
+
+/----------January 4th, 2017----------\
+*Fixed wall render
+*Changed Render Tile image to desk
+*Press 'r' to rotate desk
+*Cleaned up render code
+*Made Import Tiles look nicer
+*Moved position of Oxygen display
+
+Time: 5 hrs
+
+/----------January 2nd, 2017----------\
+*Optimized Render
+*Changed Wall render to space instead of tile
+
+Time: 3 hrs
+
+/----------December 30th, 2016----------\
+*made Tile menu extend and retract
+
+Time: 2 hrs
+
+/----------November 4th, 2016----------\
+*Optimized Render
+
+Time: 1 hr
+
+--Exported V.0.6.01
+
+/----------November 4th, 2016----------\
++Added people
+*People now deplete oxygen 1 each
+*Can only have as many people as research pads
+*Can now load previous saves
+*Can delete previous saves
+*Scrollable saves list
+*Can back out to home menu
+*Optimized Render
+
+Time: 6 hrs
+
+/----------October 31th, 2016----------\
+*Save name slowly shrinks
+
+Time: 2 hrs
+
+/----------October 20th, 2016----------\
++Multiple new game save slots
+
+Time: 4hrs
+
+/----------October 13th, 2016----------\
+*Tiles now have walls
+*Tiles no long give research
+
+Time: 6hrs
+
+/----------October 7th, 2016----------\
++Added research tiles
++Added import tiles
+
+Time: 2hrs
+
+/----------October 4th, 2016----------\
++Added default cursor
++Added music
+*Improved overlay
+*Changed tile selection
+
+Time: 4hrs 
+
+/----------September 29, 2016----------\
++Added home menu
++Added settings menu
+
+Time: 2hrs
+
+/----------September 28, 2016----------\
++Added scan command
++Added restart command
++Added home menu image & render
+*Moved code to render class
+*Optimized render
+
+Time: 3hrs
+
+/----------September 22, 2016----------\
++Added research command
++Added money command
++Added air command
+
+Time:2 hrs
+
+/----------September 21, 2016----------\
+*Improved dev con
+
+Time: 1hr
+
+/----------September 14, 2016----------\
++Added research menu
++Added import limit unlockable
++Added victory unlockable
++Added click sound
++Added import sound
++Added research sound
++Added tile placement sound
++Added locked sound
++Added dev con
+*Optimized Tile placement
+*Stores import limit on exit
+
+Time: 6hrs
+
+/----------September 8, 2016----------\
++Added research menu button on overlay
+*Saves your location
+
+Time: 4hrs
+
+/----------September 1, 2016----------\
+*Made Air Store on Exit
+
+Time: 2hrs
+
+--V.0.3.01
+/----------August 30, 2016----------\
++Added Ship Import Menu
++Added Game Over
++Added Air
+*Rebalanced Costs
+*Now Remebers Time Until Next Ship
+
+Time: 4hrs
+
+/----------August 29, 2016----------\
+
+Time: 2hrs
+
+/----------August 28, 2016----------\
++Added Research
++Added Ship in Overlay
++Added Ship Menu When Ship is Pressed
++Added Pause Menu Toggle
+*Changed Tiles to Produce Research
+
+Time: 2hrs
+
+/----------August 27, 2016----------\
++Created Overlay Image
++Display Overlay Image
+*Changed Render include overlay
+#Fixed Bug 2
+
+Time: 5hrs
+/----------August 26, 2016----------\
++Added Game Fullscreen Mode
+*Optimized Render
+*Changed Starting Template
+*Fixed Spelling with logging
+#Fixed Bug 1
+
+Time: 6hrs
